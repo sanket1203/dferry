@@ -67,8 +67,7 @@ jQuery(document).ready(function()
 
 /** no direct access **/
 defined('_MECEXEC_') or die();
-
-/* Testing GitHub Commit */
+/* Testing GitHub Commit again */
 
 ?>
 
