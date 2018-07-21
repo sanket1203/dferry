@@ -67,6 +67,9 @@ jQuery(document).ready(function()
 
 /** no direct access **/
 defined('_MECEXEC_') or die();
+
+/* Testing GitHub Commit */
+
 ?>
 
 <div class="mec-wrap <?php echo $event_colorskin; ?> clearfix <?php echo $this->html_class; ?>" id="mec_skin_<?php echo $this->id; ?>">
